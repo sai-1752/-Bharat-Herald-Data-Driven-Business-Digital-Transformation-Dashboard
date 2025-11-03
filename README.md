@@ -16,30 +16,6 @@
 
 ---
 
-## 📂 Repository Structure
-
-data/
-fact_print_sales.csv
-fact_ad_revenue.csv
-fact_city_readiness.csv
-fact_digital_pilot.csv
-dim_city.csv
-dim_ad_category.csv
-powerbi/
-Bharat_Herald_Dashboard.pbix
-notebooks/
-data_cleaning_and_transformation.ipynb
-assets/
-visuals/
-canvas_background.png
-README.md
-
-undefined
-
-
-
----
-
 ## 📺 Dashboard Highlights
 
 - **KPI executive overview:** Total net circulation, ad revenue, digital engagement metrics.
