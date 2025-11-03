@@ -8,6 +8,7 @@
 
 **Bharat Herald** is a legacy newspaper organization facing an existential crisis amidst rapid digital migration, declining print circulation, and increased competition. This repo presents a comprehensive business intelligence and digital transformation analysis covering the period **2019–2024**, targeting actionable executive insights, recovery strategies, and a modern corporate dashboard.
 
+![Dashboard Screenshot 1](Assets/Page_1.png)
 ---
 
 ## 🚀 Key Objectives
@@ -26,6 +27,7 @@
 - **Ad/Advertiser breakdowns:** Category insights using donut and bubble charts, resilience analytics.
 - **Actionable summary:** Executive recommendations powered by data, not assumptions.
 
+![Dashboard Screenshot 1](Assets/Page_2.png)
 ---
 
 ## 🛠️ Tech Stack
