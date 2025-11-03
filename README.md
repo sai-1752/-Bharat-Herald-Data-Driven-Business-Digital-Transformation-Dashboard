@@ -2,7 +2,7 @@
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-blue) ![Python](https://img.shields.io/badge/Python-Data%20Processing-informational) ![SQL](https://img.shields.io/badge/SQL-Data%20Modeling-orange)
 
-![Main_image](image/Main_image.png)
+![Main_image](Assets/Main_image.png)
 
 ## 📊 Project Overview
 
