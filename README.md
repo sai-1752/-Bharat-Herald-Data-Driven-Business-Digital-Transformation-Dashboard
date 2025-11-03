@@ -2,6 +2,8 @@
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-blue) ![Python](https://img.shields.io/badge/Python-Data%20Processing-informational) ![SQL](https://img.shields.io/badge/SQL-Data%20Modeling-orange)
 
+![Main_image](images/Main_image.png)
+
 ## 📊 Project Overview
 
 **Bharat Herald** is a legacy newspaper organization facing an existential crisis amidst rapid digital migration, declining print circulation, and increased competition. This repo presents a comprehensive business intelligence and digital transformation analysis covering the period **2019–2024**, targeting actionable executive insights, recovery strategies, and a modern corporate dashboard.
