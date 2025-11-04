@@ -8,7 +8,6 @@
 
 **Bharat Herald** is a legacy newspaper organization facing an existential crisis amidst rapid digital migration, declining print circulation, and increased competition. This repo presents a comprehensive business intelligence and digital transformation analysis covering the period **2019–2024**, targeting actionable executive insights, recovery strategies, and a modern corporate dashboard.
 
-![Dashboard Screenshot 1](Assets/Page_1.png)
 ---
 
 ## 🚀 Key Objectives
@@ -43,7 +42,7 @@ This project uses a **star schema** data model to organize and relate disparate 
 ### Modeling Approach
 
 - All transformations performed in Power BI Power Query and Python Pandas scripts
-- Relationships established in Power BI Model View for interactive visuals
+- Relationships established in the Power BI Model View for interactive visuals
 - Measures calculated with robust DAX expressions for KPIs and derived metrics (e.g., Net Circulation, Opportunity Score)
 
 ### Benefits
@@ -62,8 +61,9 @@ This project uses a **star schema** data model to organize and relate disparate 
 - **City-wise opportunity mapping:** Regional penetration, readiness scores, top expansion targets.
 - **Ad/Advertiser breakdowns:** Category insights using donut and bubble charts, resilience analytics.
 - **Actionable summary:** Executive recommendations powered by data, not assumptions.
+![Dashboard Screenshot 1](Assets/Page_1.png)
 
-![Dashboard Screenshot 1](Assets/Page_2.png)
+![Dashboard Screenshot 2](Assets/Page_2.png)
 ---
 
 ## 🛠️ Tech Stack
