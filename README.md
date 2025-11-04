@@ -61,7 +61,7 @@ This project uses a **star schema** data model to organize and relate disparate 
 - **City-wise opportunity mapping:** Regional penetration, readiness scores, top expansion targets.
 - **Ad/Advertiser breakdowns:** Category insights using donut and bubble charts, resilience analytics.
 - **Actionable summary:** Executive recommendations powered by data, not assumptions.
-
+![Dashboard Screenshot 1](Assets/Page_1.png)
 ![Dashboard Screenshot 2](Assets/Page_2.png)
 ---
 
