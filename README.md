@@ -18,6 +18,8 @@
 
 ---
 ## 🏗️ Data Modelling
+<img width="1112" height="782" alt="image" src="https://github.com/user-attachments/assets/c571759a-b365-4286-9372-a08b1213617b" />
+
 
 This project uses a **star schema** data model to organize and relate disparate business facts for powerful insights and analysis. Core entities are separated into **fact tables** (quantitative events) and **dimension tables** (context and attributes):
 
